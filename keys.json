@@ -10,5 +10,11 @@
     "active": true,
     "expires": "2026-09-30",
     "machine": null
+  },
+  "0aa995cdf66a360757502fefb81bd6c7e4bfa1839cb4a8ba0b54591346679c40": {
+    "name": "Daksh",
+    "active": true,
+    "expires": "2026-09-30",
+    "machine": null
   }
 }
