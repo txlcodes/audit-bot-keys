@@ -16,5 +16,11 @@
     "active": true,
     "expires": "2026-09-30",
     "machine": "DD04-39C9-A6F6"
+  },
+  "1fa896fe864cd6027c7aa6f5beaa13d57f26f24e08681d49d22d67f7d37e0e2d": {
+    "name": "Nishant",
+    "active": true,
+    "expires": "2026-10-03",
+    "machine": null
   }
 }
