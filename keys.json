@@ -22,5 +22,11 @@
     "active": true,
     "expires": "2026-10-03",
     "machine": "D514-83D0-DC0B"
+  },
+  "ff99518140ddb6fb6596ce15c7f50c235c07ff3a0bad4a43d3f71539c8fd87ff": {
+    "name": "Mayank Baghel",
+    "active": true,
+    "expires": "2026-10-03",
+    "machine": null
   }
 }
