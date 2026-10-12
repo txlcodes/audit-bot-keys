@@ -58,5 +58,11 @@
     "active": true,
     "expires": "2026-10-25",
     "machine": "2B8D-C8FA-E8D7"
+  },
+  "70d11d7b3072aa66f0658f79acbce1ba90ef206caea336daa23013c993890cbb": {
+    "name": "Shaddy",
+    "active": true,
+    "expires": "2026-11-11",
+    "machine": null
   }
 }
