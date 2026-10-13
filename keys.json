@@ -64,5 +64,11 @@
     "active": true,
     "expires": "2026-11-11",
     "machine": null
+  },
+  "3a25936497f56451b7d27196e46c788e2b10739fe047a5dbda9b8bc97597c698": {
+    "name": "Nawazish",
+    "active": true,
+    "expires": "2026-10-29",
+    "machine": null
   }
 }
