@@ -70,5 +70,11 @@
     "active": true,
     "expires": "2026-10-29",
     "machine": "069A-75C8-AB49"
+  },
+  "62a9ca73b072d2112719dd19f2df1a3e4b314d45ae1394293f2a0f5e5d4f7b6a": {
+    "name": "Nadir",
+    "active": true,
+    "expires": "2026-10-30",
+    "machine": null
   }
 }
