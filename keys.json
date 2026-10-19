@@ -76,5 +76,11 @@
     "active": true,
     "expires": "2026-10-30",
     "machine": "69EF-BBAD-4EE0"
+  },
+  "2219d8ff4c6c0569f0792e86d242967d2a008587bfd8f3be820153131eaf122d": {
+    "name": "Abhishek",
+    "active": true,
+    "expires": "2026-11-04",
+    "machine": null
   }
 }
