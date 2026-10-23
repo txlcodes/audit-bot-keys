@@ -82,5 +82,11 @@
     "active": true,
     "expires": "2026-11-04",
     "machine": "83E1-9765-0AF8"
+  },
+  "1c716860b56a80c2d1512b7047fb233be4c6e9cf2d42668cc891cac89f272ae3": {
+    "name": "Prashant",
+    "active": true,
+    "expires": "2026-11-07",
+    "machine": null
   }
 }
